@@ -1,8 +1,6 @@
 # DataScience
 
-Course Link:
-
-<a href="https://www.udemy.com/course/datascience/learn/lecture/14751190#overview" target="_blank">Data Science A-Z™: Real-Life Data Science Exercises Included</a>
+Course Link: <a href="https://www.udemy.com/course/datascience/learn/lecture/14751190#overview" target="_blank">Data Science A-Z™: Real-Life Data Science Exercises Included</a>
 
 <hr>
 
