@@ -15,7 +15,5 @@ All the Materials in the Course: <a href="https://www.superdatascience.com/pages
 <a href="https://www.evanmiller.org/ab-testing/chi-squared.html" target="_blank">Chi Square Metric - Two Variables</a>
 
 
-<hr>
-
 <a href="http://vassarstats.net/newcs.html" target="_blank">Chi Square Metric - Multiple Variables</a>
 
